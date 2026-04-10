@@ -4,6 +4,8 @@ Search company registrations across **40+ countries** and **82 official governme
 
 **Apify Store**: [lentic_clockss/global-company-search](https://apify.com/lentic_clockss/global-company-search)
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/53737226-4abbd3fa-4d9a-471f-82d7-0344dfa90511?action=collection%2Ffork&source=rip_markdown)
+
 ## What It Does
 
 Enter a company name, registration number, LEI code, or VAT ID — get results from official government registries worldwide. Three-tier smart routing automatically detects the query type and routes to the right registries.
